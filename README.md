@@ -1,2 +1,2 @@
 # DJI Digital FPV
-коллективная база знаний чатика в [telegram](https://t.me/djifpvrus)
+A conversion of the Russian DJI FPV git to English, a more inclusive language.
